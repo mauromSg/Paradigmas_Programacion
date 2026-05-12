@@ -1,5 +1,3 @@
-# Paradigmas_Programacion
-
 # Práctica Cafetería - Paradigmas de Programación
 
 Este repositorio contiene la primera Práctica Especial Cuatrimestral (PECL1) para la asignatura de **Paradigmas de Programación**, curso 2025-26. 
